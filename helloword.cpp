@@ -2,7 +2,7 @@
 
 int main()
 {
-count << "Hello,world" << endl;
+count << "Hello,world in vi" << endl;
 return 0;
 
 }
